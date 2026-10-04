@@ -1,0 +1,29 @@
+// MT Formantish — multisample render of a CC BY 4.0 Helm patch (Lead), author: Matt Tytel. See SOURCES.md.
+<global>
+ampeg_release=0.25
+loop_mode=no_loop
+
+<region>
+sample=MT_Formantish__36.flac
+lokey=0 hikey=42 pitch_keycenter=36
+volume=-10.3
+
+<region>
+sample=MT_Formantish__48.flac
+lokey=43 hikey=54 pitch_keycenter=48
+volume=-10.5
+
+<region>
+sample=MT_Formantish__60.flac
+lokey=55 hikey=66 pitch_keycenter=60
+volume=-11.2
+
+<region>
+sample=MT_Formantish__72.flac
+lokey=67 hikey=78 pitch_keycenter=72
+volume=-11.3
+
+<region>
+sample=MT_Formantish__84.flac
+lokey=79 hikey=127 pitch_keycenter=84
+volume=-11.6

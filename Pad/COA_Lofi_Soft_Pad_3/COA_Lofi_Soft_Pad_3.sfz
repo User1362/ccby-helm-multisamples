@@ -1,0 +1,29 @@
+// COA Lofi Soft Pad 3 — multisample render of a CC BY 4.0 Helm patch (Pad), author: Cris Owl Alvarez. See SOURCES.md.
+<global>
+ampeg_release=0.25
+loop_mode=no_loop
+
+<region>
+sample=COA_Lofi_Soft_Pad_3__36.flac
+lokey=0 hikey=42 pitch_keycenter=36
+volume=-13.7
+
+<region>
+sample=COA_Lofi_Soft_Pad_3__48.flac
+lokey=43 hikey=54 pitch_keycenter=48
+volume=-10.0
+
+<region>
+sample=COA_Lofi_Soft_Pad_3__60.flac
+lokey=55 hikey=66 pitch_keycenter=60
+volume=-8.1
+
+<region>
+sample=COA_Lofi_Soft_Pad_3__72.flac
+lokey=67 hikey=78 pitch_keycenter=72
+volume=-4.9
+
+<region>
+sample=COA_Lofi_Soft_Pad_3__84.flac
+lokey=79 hikey=127 pitch_keycenter=84
+volume=-10.8

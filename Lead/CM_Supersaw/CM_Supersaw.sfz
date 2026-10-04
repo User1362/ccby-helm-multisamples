@@ -1,0 +1,29 @@
+// CM Supersaw — multisample render of a CC BY 4.0 Helm patch (Lead), author: Mikolis. See SOURCES.md.
+<global>
+ampeg_release=0.25
+loop_mode=no_loop
+
+<region>
+sample=CM_Supersaw__36.flac
+lokey=0 hikey=42 pitch_keycenter=36
+volume=-6.5
+
+<region>
+sample=CM_Supersaw__48.flac
+lokey=43 hikey=54 pitch_keycenter=48
+volume=-4.1
+
+<region>
+sample=CM_Supersaw__60.flac
+lokey=55 hikey=66 pitch_keycenter=60
+volume=-5.1
+
+<region>
+sample=CM_Supersaw__72.flac
+lokey=67 hikey=78 pitch_keycenter=72
+volume=-4.5
+
+<region>
+sample=CM_Supersaw__84.flac
+lokey=79 hikey=127 pitch_keycenter=84
+volume=-2.7

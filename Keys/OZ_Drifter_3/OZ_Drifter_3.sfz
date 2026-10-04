@@ -1,0 +1,29 @@
+// OZ Drifter 3 — multisample render of a CC BY 4.0 Helm patch (Keys), author: Ones & Zeros. See SOURCES.md.
+<global>
+ampeg_release=0.25
+loop_mode=no_loop
+
+<region>
+sample=OZ_Drifter_3__36.flac
+lokey=0 hikey=42 pitch_keycenter=36
+volume=-2.9
+
+<region>
+sample=OZ_Drifter_3__48.flac
+lokey=43 hikey=54 pitch_keycenter=48
+volume=-4.7
+
+<region>
+sample=OZ_Drifter_3__60.flac
+lokey=55 hikey=66 pitch_keycenter=60
+volume=-6.4
+
+<region>
+sample=OZ_Drifter_3__72.flac
+lokey=67 hikey=78 pitch_keycenter=72
+volume=-9.5
+
+<region>
+sample=OZ_Drifter_3__84.flac
+lokey=79 hikey=127 pitch_keycenter=84
+volume=-9.0

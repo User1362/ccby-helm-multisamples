@@ -1,0 +1,29 @@
+// SF Bass Formant — multisample render of a CC BY 4.0 Helm patch (Bass), author: SF. See SOURCES.md.
+<global>
+ampeg_release=0.25
+loop_mode=no_loop
+
+<region>
+sample=SF_Bass_Formant__36.flac
+lokey=0 hikey=42 pitch_keycenter=36
+volume=-1.7
+
+<region>
+sample=SF_Bass_Formant__48.flac
+lokey=43 hikey=54 pitch_keycenter=48
+volume=-5.0
+
+<region>
+sample=SF_Bass_Formant__60.flac
+lokey=55 hikey=66 pitch_keycenter=60
+volume=-10.3
+
+<region>
+sample=SF_Bass_Formant__72.flac
+lokey=67 hikey=78 pitch_keycenter=72
+volume=-15.5
+
+<region>
+sample=SF_Bass_Formant__84.flac
+lokey=79 hikey=127 pitch_keycenter=84
+volume=-14.7

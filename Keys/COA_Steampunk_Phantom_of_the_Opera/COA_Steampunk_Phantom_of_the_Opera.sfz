@@ -1,0 +1,29 @@
+// COA Steampunk Phantom of the Opera — multisample render of a CC BY 4.0 Helm patch (Keys), author: Cris Owl Alvarez. See SOURCES.md.
+<global>
+ampeg_release=0.25
+loop_mode=no_loop
+
+<region>
+sample=COA_Steampunk_Phantom_of_the_Opera__36.flac
+lokey=0 hikey=42 pitch_keycenter=36
+volume=-12.0
+
+<region>
+sample=COA_Steampunk_Phantom_of_the_Opera__48.flac
+lokey=43 hikey=54 pitch_keycenter=48
+volume=-11.1
+
+<region>
+sample=COA_Steampunk_Phantom_of_the_Opera__60.flac
+lokey=55 hikey=66 pitch_keycenter=60
+volume=-11.5
+
+<region>
+sample=COA_Steampunk_Phantom_of_the_Opera__72.flac
+lokey=67 hikey=78 pitch_keycenter=72
+volume=-12.1
+
+<region>
+sample=COA_Steampunk_Phantom_of_the_Opera__84.flac
+lokey=79 hikey=127 pitch_keycenter=84
+volume=-11.5

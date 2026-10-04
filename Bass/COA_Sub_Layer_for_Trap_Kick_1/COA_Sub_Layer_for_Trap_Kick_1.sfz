@@ -1,0 +1,29 @@
+// COA Sub-Layer for Trap Kick 1 — multisample render of a CC BY 4.0 Helm patch (Bass), author: Cris Owl Alvarez. See SOURCES.md.
+<global>
+ampeg_release=0.25
+loop_mode=no_loop
+
+<region>
+sample=COA_Sub_Layer_for_Trap_Kick_1__36.flac
+lokey=0 hikey=42 pitch_keycenter=36
+volume=-6.2
+
+<region>
+sample=COA_Sub_Layer_for_Trap_Kick_1__48.flac
+lokey=43 hikey=54 pitch_keycenter=48
+volume=-4.9
+
+<region>
+sample=COA_Sub_Layer_for_Trap_Kick_1__60.flac
+lokey=55 hikey=66 pitch_keycenter=60
+volume=-3.8
+
+<region>
+sample=COA_Sub_Layer_for_Trap_Kick_1__72.flac
+lokey=67 hikey=78 pitch_keycenter=72
+volume=-4.1
+
+<region>
+sample=COA_Sub_Layer_for_Trap_Kick_1__84.flac
+lokey=79 hikey=127 pitch_keycenter=84
+volume=-4.8

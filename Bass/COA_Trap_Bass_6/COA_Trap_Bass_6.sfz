@@ -1,0 +1,29 @@
+// COA Trap Bass 6 — multisample render of a CC BY 4.0 Helm patch (Bass), author: Cris Owl Alvarez. See SOURCES.md.
+<global>
+ampeg_release=0.25
+loop_mode=no_loop
+
+<region>
+sample=COA_Trap_Bass_6__36.flac
+lokey=0 hikey=42 pitch_keycenter=36
+volume=-12.6
+
+<region>
+sample=COA_Trap_Bass_6__48.flac
+lokey=43 hikey=54 pitch_keycenter=48
+volume=-13.4
+
+<region>
+sample=COA_Trap_Bass_6__60.flac
+lokey=55 hikey=66 pitch_keycenter=60
+volume=-12.0
+
+<region>
+sample=COA_Trap_Bass_6__72.flac
+lokey=67 hikey=78 pitch_keycenter=72
+volume=-11.0
+
+<region>
+sample=COA_Trap_Bass_6__84.flac
+lokey=79 hikey=127 pitch_keycenter=84
+volume=-11.5

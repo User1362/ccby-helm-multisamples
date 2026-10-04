@@ -1,0 +1,29 @@
+// MT Hypnotizing Pulse — multisample render of a CC BY 4.0 Helm patch (Pad), author: Matt Tytel. See SOURCES.md.
+<global>
+ampeg_release=0.25
+loop_mode=no_loop
+
+<region>
+sample=MT_Hypnotizing_Pulse__36.flac
+lokey=0 hikey=42 pitch_keycenter=36
+volume=-8.2
+
+<region>
+sample=MT_Hypnotizing_Pulse__48.flac
+lokey=43 hikey=54 pitch_keycenter=48
+volume=-9.9
+
+<region>
+sample=MT_Hypnotizing_Pulse__60.flac
+lokey=55 hikey=66 pitch_keycenter=60
+volume=-7.2
+
+<region>
+sample=MT_Hypnotizing_Pulse__72.flac
+lokey=67 hikey=78 pitch_keycenter=72
+volume=-6.6
+
+<region>
+sample=MT_Hypnotizing_Pulse__84.flac
+lokey=79 hikey=127 pitch_keycenter=84
+volume=-6.8
